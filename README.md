@@ -9,4 +9,3 @@ images used in this game:
 "Designed by brgfx / Freepik" - http://www.freepik.com
 
 
-![monkey](https://github.com/Goku80/Rekursive-Kreise-Visualisierung/assets/100942501/4cbd4709-a09f-490f-8604-c92c1541d705)
